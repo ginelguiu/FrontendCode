@@ -1,4 +1,3 @@
-// TODO #2 load ngRoute module
 var hrApp = angular.module("hrApp", ['ngRoute']);
 hrApp.config(['$routeProvider', function ($routeProvider) {
     $routeProvider
